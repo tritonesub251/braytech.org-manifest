@@ -1,0 +1,395 @@
+{
+  "1": {
+    "hash": 1,
+    "displayProperties": {
+      "name": "리븐의 저주",
+      "description": "사바툰의 저주로 리븐의 죽어가는 숨결과 함께 활성화되었습니다. 둘 인카루가 죽을때 마다 리셋됩니다.",
+      "icon": "savathuns-curse-cycle"
+    },
+    "startDate": "2018-09-11T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 275,
+        "displayProperties": {
+          "name": "1주차: 약한 저주",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 276,
+        "displayProperties": {
+          "name": "2주차: 심한 저주",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 277,
+        "displayProperties": {
+          "name": "3주차: 강력한 저주",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "2": {
+    "hash": 2,
+    "displayProperties": {
+      "name": "승천 도전",
+      "description": "각성자들은 오랫동안 여러 세계 간을 이동해 왔습니다. 그들의 길을 따라가며 적을 처치하세요.",
+      "icon": "ascendant-challenge"
+    },
+    "startDate": "2018-09-04T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 5,
+        "displayProperties": {
+          "name": "우로보레아",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 7,
+        "displayProperties": {
+          "name": "몰수된 제단",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 9,
+        "displayProperties": {
+          "name": "조각난 폐허",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 11,
+        "displayProperties": {
+          "name": "연마된 칼날의 아성",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 13,
+        "displayProperties": {
+          "name": "심판의 심연",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 15,
+        "displayProperties": {
+          "name": "키메르 수비대",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "3": {
+    "hash": 3,
+    "displayProperties": {
+      "name": "슬픔의 제단",
+      "description": "군체가 어둠을 부릅니다. 그들의 비명을 멈추고 희생제를 막으세요."
+    },
+    "startDate": "2018-09-11T17:00:00Z",
+    "cadence": 1,
+    "rotation": [
+      {
+        "nodeHash": 2000000256,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [935628460],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000254,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [651531704],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000255,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [3844835635],
+        "records": []
+      }
+    ]
+  },
+  "4": {
+    "hash": 4,
+    "displayProperties": {
+      "name": "방황하는 악몽",
+      "description": "과거의 적이 아직도 달의 망령으로 남아있습니다. 망령의 잔재를 소멸시키세요."
+    },
+    "startDate": "2019-10-01T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 16,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 17,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 18,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 19,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "5": {
+    "hash": 5,
+    "displayProperties": {
+      "name": "일식 지역",
+      "description": "수호자가 클로비스 브레이의 우주정거장을 추락시킨 여파로 라스모어 혼돈 곳곳에 잔해가 떨어지고 있습니다.",
+      "icon": "eclipse-zone"
+    },
+    "startDate": "2021-06-22T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 1747045785,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2868856804,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 396959363,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "6": {
+    "hash": 6,
+    "displayProperties": {
+      "name": "원천",
+      "description": "사바툰이 무력화된 뒤 빛의 군체와 경멸자가 원천의 통제권을 두고 싸우고 있습니다.",
+      "icon": "wellspring"
+    },
+    "startDate": "2022-02-22T17:00:00Z",
+    "cadence": 1,
+    "rotation": [
+      {
+        "nodeHash": 306,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [1554180090],
+        "records": []
+      },
+      {
+        "nodeHash": 307,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [77011569],
+        "records": []
+      },
+      {
+        "nodeHash": 308,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [1458222686],
+        "records": []
+      },
+      {
+        "nodeHash": 309,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [2040522335],
+        "records": []
+      }
+    ]
+  },
+  "7": {
+    "hash": 7,
+    "displayProperties": {
+      "name": "빛의 처형자",
+      "description": "빛의 군체가 빛을 이용해 마녀 여왕의 적들을 섬멸하고 있습니다. 이들을 추적하고 처형하세요."
+    },
+    "startDate": "2022-06-08T17:00:00Z",
+    "cadence": 1,
+    "rotation": [
+      {
+        "nodeHash": 2000000252,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000251,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000253,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "8": {
+    "hash": 8,
+    "displayProperties": {
+      "name": "벡스 침입 지역",
+      "description": "벡스가 해당 지역의 구름방주 보안을 뚫으려고 합니다. 이들의 침입 시도를 막으세요.",
+      "icon": "vex-incursion-zone"
+    },
+    "startDate": "2023-02-28T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 300,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 301,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 302,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "9": {
+    "hash": 9,
+    "displayProperties": {
+      "name": "터미널 과부하",
+      "description": "그림자 군단과 벡스가 도시에 총공격을 감행하고 있습니다. 해왕성을 파괴하는 이들을 막으세요.",
+      "icon": "terminal-overload"
+    },
+    "startDate": "2023-02-28T17:00:00Z",
+    "cadence": 1,
+    "rotation": [
+      {
+        "nodeHash": 303,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 304,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 305,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  }
+}
