@@ -141,3 +141,23 @@
     "progressDescription": "수집한 괴사성 암호"
   }
 }
+  "1793940260": {
+    "displayProperties": {
+      "name": "액션 피규어"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "액션 피규어",
+      "completed": "수집함"
+    },
+    "progressDescription": "수집한 장난"
+  },
+  "703136805": {
+    "entry": {
+      "prefix": "",
+      "name": "원지점 중계기",
+      "completed": "무력화"
+    },
+    "progressDescription": "무력화된 중계기"
+  }
+}
