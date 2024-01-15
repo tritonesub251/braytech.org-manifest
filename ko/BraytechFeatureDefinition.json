@@ -19,14 +19,14 @@
   },
   "journey": {
     "displayProperties": {
-      "name": "Journey",
-      "description": "Navigate your Guardian's journey from New Light to Paragon"
+      "name": "여정",
+      "description": "새로운 빛에서 용장까지 달하는 수호자의 여정을 돌아보세요"
     }
   },
   "commendations": {
     "displayProperties": {
-      "name": "Commendations",
-      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
+      "name": "칭호",
+      "description": "화력팀의 승리를 축하하고 당신의 고마움을 표현하세요"
     }
   },
   "maps": {
@@ -37,7 +37,7 @@
   },
   "checklists": {
     "displayProperties": {
-      "name": "Checklists",
+      "name": "체크리스트",
       "description": "태양계의 고스트 스캔 및 아이템 체크리스트"
     }
   },
@@ -49,20 +49,20 @@
   },
   "weeklies-activity-challenges": {
     "displayProperties": {
-      "name": "Activity Challenges",
-      "description": "All activity challenges"
+      "name": "활동 도전",
+      "description": "모든 활동 도전"
     }
   },
   "weeklies-seasonal-challenges": {
     "displayProperties": {
-      "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
+      "name": "시즌 도전",
+      "description": "기간한정 도전을 완료하고 시즌 등급, 광휘 가루, 여러 보상을 받으세요"
     }
   },
   "weeklies-rotations": {
     "displayProperties": {
-      "name": "Rotations",
-      "description": "Scry the orbits of various activities"
+      "name": "순환 활동",
+      "description": "매주 순환하는 활동에 참여하세요"
     }
   },
   "character": {
@@ -73,14 +73,14 @@
   },
   "character-vault": {
     "displayProperties": {
-      "name": "Vault",
-      "description": "Safe storage for general items. Accessible to all your characters"
+      "name": "금고",
+      "description": "여러 물건들을 안전하게 보관합니다. 모든 캐릭터가 공유합니다"
     }
   },
   "character-vendors": {
     "displayProperties": {
-      "name": "Vendors",
-      "description": "Spy on your favourite task delegators and trading partners"
+      "name": "상인",
+      "description": "여러분이 사모하는 전략가나 상인들의 인벤토리를 엿보세요"
     }
   },
   "quests": {
@@ -91,8 +91,8 @@
   },
   "quests-bounties": {
     "displayProperties": {
-      "name": "Bounties",
-      "description": "All of the selected Guardian's bounties"
+      "name": "현상금",
+      "description": "선택한 수호자가 받은 모든 현상금입니다"
     }
   },
   "activity": {
@@ -103,14 +103,14 @@
   },
   "activity-bookmarks": {
     "displayProperties": {
-      "name": "Bookmarks",
-      "description": "Activities you've bookmarked"
+      "name": "책갈피",
+      "description": "책갈피 설정이 적용된 활동입니다"
     }
   },
   "activity-series": {
     "displayProperties": {
-      "name": "Series",
-      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
+      "name": "시리즈",
+      "description": "매우 위험한 조건에서 달성한 업적, 여러분의 화력팀이 강대한 적을 처음으로 쓰러린 것에 대한 보고서입니다"
     }
   },
   "settings": {
@@ -121,8 +121,8 @@
   },
   "legend": {
     "displayProperties": {
-      "name": "Legend",
-      "description": "Life and death are liar's tools. Weave your own lie."
+      "name": "전설",
+      "description": "삶과 죽음은 거짓말쟁이의 도구입니다. 당신만의 거짓말을 써내세요."
     }
   },
   "archives": {
@@ -139,8 +139,8 @@
   },
   "privacy": {
     "displayProperties": {
-      "name": "Privacy",
-      "description": "Respecting personal boundaries"
+      "name": "개인정보",
+      "description": "서로의 공간을 존중해줍시다"
     }
   },
   "credits": {
