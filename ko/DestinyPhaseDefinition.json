@@ -104,7 +104,7 @@
   "3840791265": {
     "displayProperties": {
       "name": "목격자의 신봉자 룰크",
-      "description": "목격자의 첫번째 신봉자이자 피라미드의 주인입니다. 익사해라익사해라익사해라익사해라익사해라익사해라."
+      "description": "목격자의 첫번째 신봉자이자 피라미드의 주인입니다. 익사해라익사해라익사해라."
     }
   },
   "2158557525": {
@@ -122,7 +122,7 @@
   "1024471091": {
     "displayProperties": {
       "name": "축성의 정신",
-      "description": "이때 까지 쫓은 축성의 정신을 파괴하세요."
+      "description": "이때까지 쫓은 축성의 정신을 파괴하세요."
     }
   },
   "523815399": {
@@ -159,6 +159,54 @@
     "displayProperties": {
       "name": "굴복자의 왕 오릭스",
       "description": "오릭스를 왕좌로부터 끌어내려야 합니다."
+    }
+  },
+  "3172054256": {
+    "displayProperties": {
+      "name": "대재앙",
+      "description": "그림자 군단을 처치하고 네자렉을 쫒으세요."
+    }
+  },
+  "2224793617": {
+    "displayProperties": {
+      "name": "분열",
+      "description": "악몽의 뿌리를 충전하세요."
+    }
+  },
+  "2184227225": {
+    "displayProperties": {
+      "name": "대우주",
+      "description": "행성을 정렬하고 행성해설자를 처치하세요."
+    }
+  },
+  "2779782231": {
+    "displayProperties": {
+      "name": "네자렉",
+      "description": "네자렉을 처치하고 악몽을 끝내세요요."
+    }
+  },
+  "2890972472": {
+    "displayProperties": {
+      "name": "심연",
+      "description": "빛을 따라가세요."
+    }
+  },
+  "3768812794": {
+    "displayProperties": {
+      "name": "대영혼 왕좌 교각",
+      "description": "교각을 건너 크로타의 왕좌에 도달하세요."
+    }
+  },
+  "1463700798": {
+    "displayProperties": {
+      "name": "죽음노래꾼 이르 유트",
+      "description": "죽음노래를 중단시키세요."
+    }
+  },
+  "4240994016": {
+    "displayProperties": {
+      "name": "오릭스의 아들 크로타",
+      "description": "오릭스의 아들을 쓰러트리세요."
     }
   }
 }
