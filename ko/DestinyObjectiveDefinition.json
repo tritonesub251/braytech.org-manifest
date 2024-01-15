@@ -1,15 +1,42 @@
 {
+  "1542299784": {
+    "progressDescription": "의식 활동 완료"
+  },
+  "3794117631": {
+    "progressDescription": "의식 활동 완료"
+  },
+  "1270593510": {
+    "progressDescription": "의식 활동 완료"
+  },
+  "1612424695": {
+    "progressDescription": "황혼전 점수 획득"
+  },
   "4276867787": {
+    "progressDescription": "\"경쟁\" 플레이리스트 경기 완료"
+  },
+  "1458618853": {
     "progressDescription": "\"경쟁\" 플레이리스트 경기 완료"
   },
   "2794225827": {
     "progressDescription": "오시리스의 시험 승리"
   },
-  "1948254616": {
+   "1948254616": {
     "progressDescription": "\"영원의 도전\" 활동 완료"
   },
   "1205559531": {
     "progressDescription": "\"영원의 도전\"을 {var:3648290880}점 이상으로 완료"
+  },
+  "1320261963": {
+    "progressDescription": "\"어슴푸레한 목소리\" 순환 경이 임무 완료"
+  },
+  "1510063869": {
+    "progressDescription": "\"예지\" 순환 경이 임무 완료"
+  },
+  "3726310377": {
+    "progressDescription": "\"작전: 세라프의 방어\" 순환 경이 임무 완료"
+  },
+  "1356373064": {
+    "progressDescription": "\"//node.ovrd.AVALON//\" 경이 임무 완료"
   },
   "4140117227": {
     "progressDescription": "선봉대 현상금 완료"
@@ -39,39 +66,129 @@
     "progressDescription": "주간 캠페인 임무를 10만점 이상으로 완료"
   },
   "897950155": {
-    "progressDescription": "\"마지막 소원\" 레이드 완료"
+    "displayProperties": {
+      "description": "\"I've waited so long to fulfill one last wish...\""
+    },
+    "progressDescription": "\"마지막 소원\" 순환 레이드 완료"
   },
   "2398860795": {
-    "progressDescription": "\"구원의 정원\" 레이드 완료"
+    "displayProperties": {
+      "description": "\"We are your... salvation.\""
+    },
+    "progressDescription": "\"구원의 정원\" 순환 레이드 완료"
   },
   "3826130187": {
-    "progressDescription": "\"딥스톤 무덤\" 레이드 완료"
+    "displayProperties": {
+      "description": "Secure control."
+    },
+    "progressDescription": "\"딥스톤 무덤\" 순환 레이드 완료"
   },
   "3180884403": {
-    "progressDescription": "\"유리 금고\" 레이드 완료"
+    "displayProperties": {
+      "description": "Machines out of control."
+    },
+    "progressDescription": "\"유리 금고\" 순환 레이드 완료"
+  },
+  "1863972407": {
+    "displayProperties": {
+      "description": "Step forward, Disciple-Slayer."
+    },
+    "progressDescription": "\"신봉자의 서약\" 순환 레이드 완료"
+  },
+  "406803827": {
+    "displayProperties": {
+      "description": "Long live the King..."
+    },
+    "progressDescription": "\"King's Fall\" rotator raid completed"
+  },
+  "1633394671": {
+    "displayProperties": {
+      "description": "Become your nightmare's nightmare."
+    },
+    "progressDescription": "\"악몽의 뿌리\" 순환 레이드 완료"
+  },
+  "2622593631": {
+    "displayProperties": {
+      "description": "He waits in the dark below."
+    },
+    "progressDescription": "\"크로타의 최후\" 레이드 완료"
   },
   "2039792527": {
-    "progressDescription": "\"예언\" 던전 완료"
+    "displayProperties": {
+      "description": "Enter the realm of the Nine, survive, and be rewarded with knowledge, and perhaps more."
+    },
+    "progressDescription": "\"예언\" 순환 던전 완료"
   },
   "1283234589": {
-    "progressDescription": "\"이단의 구덩이\" 던전 완료"
+    "progressDescription": "\"이단의 구덩이\" 순환 던전 완료"
   },
   "1288508599": {
-    "progressDescription": "\"탐욕의 손아귀\" 던전 완료"
+    "progressDescription": "\"탐욕의 손아귀\" 순환 던전 완료"
   },
   "3838169295": {
-    "progressDescription": "\"조각난 왕관\" 던전 완료"
+    "progressDescription": "\"조각난 왕관\" 순환 던전 완료"
+  },
+  "3039545165": {
+    "progressDescription": "\"이중성\" 순환 던전 완료"
+  },
+  "3211393925": {
+    "displayProperties": {
+      "description": "Visit Mars, corroborate Osiris's visions, and intervene in a potential Vex-based catastrophe."
+    },
+    "progressDescription": "\"감시자의 첨탑\" 순환 던전 완료"
+  },
+  "1064977327": {
+    "displayProperties": {
+      "description": "Deputy Commander Sloane spotted a Lucent Hive command ship entering Titan's atmosphere. Shortly after its arrival, the ship dove into the moon's methane sea and anomalous energy readings spiked at the New Pacific Arcology. The deputy commander has called on you to investigate."
+    },
+    "progressDescription": "\"심해의 유령\" 순환 던전 완료"
+  },
+  "3950614370": {
+    "progressDescription": "\"전쟁군주의 폐허\" 던전 완료"
   },
   "2258905201": {
-    "progressDescription": "[Stasis] 시공 또는 [Void] 공허 하위직업으로 강철깃발 경기 완료"
+    "progressDescription": "강철 깃발 경기 완료"
   },
   "2050629406": {
-    "progressDescription": "[Stasis] 시공 또는 [Void] 공허 하위직업으로 강철깃발 경기 완료"
+    "progressDescription": "강철 깃발 경기 완료"
   },
   "3376767511": {
-    "progressDescription": "[Stasis] 시공 또는 [Void] 공허 하위직업으로 강철깃발 경기 완료"
+    "progressDescription": "강철 깃발 경기 완료"
   },
   "1878970132": {
-    "progressDescription": "[Stasis] 시공 또는 [Void] 공허 하위직업으로 강철깃발 경기 완료"
+    "progressDescription": "강철 깃발 경기 완료"
+  },
+  "1166685245": {
+    "progressDescription": "[Stasis] 시공, [Solar] 태양, 또는 [Strand] 초월 하위직업으로 강철 깃발 경기 완료"
+  },
+  "2457555059": {
+    "progressDescription": "[Stasis] 시공, [Solar] 태양, 또는 [Strand] 초월 하위직업으로 강철 깃발 경기 완료"
+  },
+  "3304988490": {
+    "progressDescription": "[Stasis] 시공, [Solar] 태양, 또는 [Strand] 초월 하위직업으로 강철 깃발 경기 완료"
+  },
+  "3652736024": {
+    "progressDescription": "[Stasis] 시공, [Solar] 태양, 또는 [Strand] 초월 하위직업으로 강철 깃발 경기 완료"
+  },
+  "275339596": {
+    "progressDescription": "구름 질주자 현상금 완료"
+  },
+  "3044187661": {
+    "progressDescription": "님부스와 대화하기"
+  },
+  "2656858183": {
+    "progressDescription": "\"터미널 과부하\" 전투원 처치"
+  },
+  "2177999971": {
+    "progressDescription": "퀸 라그하리와 대화하기"
+  },
+  "3447791523": {
+    "progressDescription": "\"리븐의 은신처\"나 \"윤환\"에서 완료한 통로"
+  },
+  "2687247787": {
+    "progressDescription": "\"비운\" 경이 임무 완료"
+  },
+  "721124822": {
+    "progressDescription": "\"비운\" 경이 임무를 전설 난이도로 완료"
   }
 }
